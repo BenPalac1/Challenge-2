@@ -7,3 +7,4 @@ This repository contains my solution for the Module 2 Challenge of the Full Stac
 The code for the challenge can be found in the following file:
 - [index.html](/index.html): Contains the HTML structure of the landing page.
 - [style.css](/assets/css/style.css): Contains the CSS styles for the landing page.
+- [image](/assets/images/Ben%20head-shot.png): Contains the image used for the head-shot.
