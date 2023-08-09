@@ -14,5 +14,7 @@ The code for the challenge can be found in the following file:
 - [image](/assets/images/Ben%20head-shot.png): Contains the image used for the head-shot.
 
 ## Screenshot
+![Screenshot of Portfolio](https://github.com/BenPalac1/Challenge-2/assets/139652929/015d90de-b0c5-4a8d-bc27-cf63e9e34d43)
 
-## Link to Deployed App
+
+## Link to Deployed
